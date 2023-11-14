@@ -1,0 +1,11 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+3,YLDs (Years Lived with Disability),6,China,2,Female,10,25-29 years,976,Diabetes mellitus type 2,1,Number,2010,49507.97611202189,74828.935673132,30623.46971141293
+3,YLDs (Years Lived with Disability),6,China,2,Female,10,25-29 years,976,Diabetes mellitus type 2,1,Number,2011,54388.80559646695,82373.16905489878,33744.99185788489
+3,YLDs (Years Lived with Disability),6,China,2,Female,10,25-29 years,976,Diabetes mellitus type 2,1,Number,2012,60575.38145413999,91483.47670381561,37035.642972877016
+3,YLDs (Years Lived with Disability),6,China,2,Female,10,25-29 years,976,Diabetes mellitus type 2,1,Number,2013,67179.54010113823,101200.99425235401,41424.77005909051
+3,YLDs (Years Lived with Disability),6,China,2,Female,10,25-29 years,976,Diabetes mellitus type 2,1,Number,2014,72988.93687274576,109938.9429728156,45092.99832375376
+3,YLDs (Years Lived with Disability),6,China,2,Female,10,25-29 years,976,Diabetes mellitus type 2,1,Number,2015,76314.24415830168,113615.53966112656,46815.80884590864
+3,YLDs (Years Lived with Disability),6,China,2,Female,10,25-29 years,976,Diabetes mellitus type 2,1,Number,2016,77180.82938123084,115755.4964599487,47523.247853597604
+3,YLDs (Years Lived with Disability),6,China,2,Female,10,25-29 years,976,Diabetes mellitus type 2,1,Number,2017,74983.00955311838,113201.78065370423,46475.03837350516
+3,YLDs (Years Lived with Disability),6,China,2,Female,10,25-29 years,976,Diabetes mellitus type 2,1,Number,2018,62625.941479183064,95396.94321972477,38173.682236755805
+3,YLDs (Years Lived with Disability),6,China,2,Female,10,25-29 years,976,Diabetes mellitus type 2,1,Number,2019,41930.7620427095,66710.48355937994,24099.84161976657
