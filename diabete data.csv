@@ -1,0 +1,21 @@
+measure,location,sex,age,cause,metric,year,val,upper,lower
+Prevalence,China,Male,25-29 years,Diabetes mellitus type 2,Number,2010,1339742.3273238915,1642643.2281839745,1097302.9939372076
+Prevalence,China,Female,25-29 years,Diabetes mellitus type 2,Number,2010,948174.2700819086,1169764.75274707,763125.8472979845
+Prevalence,China,Male,25-29 years,Diabetes mellitus type 2,Number,2011,1476122.0484409123,1796922.6493995495,1213801.8377197767
+Prevalence,China,Female,25-29 years,Diabetes mellitus type 2,Number,2011,1041267.5653615451,1281618.7343756407,843853.2246193506
+Prevalence,China,Male,25-29 years,Diabetes mellitus type 2,Number,2012,1643147.971578005,1995298.915276807,1352962.423247868
+Prevalence,China,Female,25-29 years,Diabetes mellitus type 2,Number,2012,1159950.3619904127,1422788.9298739962,938824.6414824227
+Prevalence,China,Male,25-29 years,Diabetes mellitus type 2,Number,2013,1822131.6147537185,2201308.0178640294,1500423.0226726187
+Prevalence,China,Female,25-29 years,Diabetes mellitus type 2,Number,2013,1286821.6500103944,1577700.2284826601,1041724.2016254342
+Prevalence,China,Male,25-29 years,Diabetes mellitus type 2,Number,2014,1986437.9743135064,2393430.2921564397,1635472.3822040525
+Prevalence,China,Female,25-29 years,Diabetes mellitus type 2,Number,2014,1397252.2077295338,1715301.9041066028,1130954.1491081186
+Prevalence,China,Male,25-29 years,Diabetes mellitus type 2,Number,2015,2103938.5543448026,2526727.191849888,1734637.9821087401
+Prevalence,China,Female,25-29 years,Diabetes mellitus type 2,Number,2015,1462058.115952516,1794444.4236213164,1177804.2934087778
+Prevalence,China,Male,25-29 years,Diabetes mellitus type 2,Number,2016,2192461.0183181,2654251.4780524247,1801668.754604758
+Prevalence,China,Female,25-29 years,Diabetes mellitus type 2,Number,2016,1479218.2480015005,1827824.5435388268,1187964.620227518
+Prevalence,China,Male,25-29 years,Diabetes mellitus type 2,Number,2017,2183984.491898615,2645135.4136935007,1773390.0514554435
+Prevalence,China,Female,25-29 years,Diabetes mellitus type 2,Number,2017,1436393.3780639851,1783324.1416194632,1139820.1428017593
+Prevalence,China,Male,25-29 years,Diabetes mellitus type 2,Number,2018,1872849.2788447002,2306170.912555571,1498454.668074555
+Prevalence,China,Female,25-29 years,Diabetes mellitus type 2,Number,2018,1198512.138478549,1517685.5109639277,937633.4183767386
+Prevalence,China,Male,25-29 years,Diabetes mellitus type 2,Number,2019,1325981.7832298917,1736663.1232324794,967764.3493442221
+Prevalence,China,Female,25-29 years,Diabetes mellitus type 2,Number,2019,801398.2487064358,1068997.5196149882,583583.3414043277
